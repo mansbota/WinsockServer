@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\WinsockServer.h(52,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\main.cpp(166,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\main.cpp(205,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\main.cpp(224,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\main.cpp(244,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grgic\source\repos\WinsockServer\WinsockServer\main.cpp(253,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Generating code
+  1 of 3214 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    60 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WinsockServer.vcxproj -> C:\Users\grgic\source\repos\WinsockServer\x64\Release\WinsockServer.exe
